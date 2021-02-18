@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashi Thakkar</h1>
-<h3 align="center">A passionate developer who trying to Figure Out Stuff!</h3>
+<h3 align="center">A passionate developer who is trying to Figure Out Stuff!</h3>
 
 - 📫 How to reach me **thakkaraashi3@gmail.com**
 
