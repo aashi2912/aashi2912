@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashi Thakkar</h1>
 <h3 align="center">A passionate developer who is trying to Figure Out Stuff!</h3>
 
-- 🔭 I’m currently working on **Improving my problem solving skills, DSA and I aspire to become MERN Full Stack Developer.**
+- 🔭 I’m currently working on **Improving my problem solving skills, DSA, Learning Javascript and I aspire to become MERN Full Stack Developer.**
 
 - 🌱 I like to **code, paint, read, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.**
 
