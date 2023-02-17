@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **aashithakkar29@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/aashi2912/Resume](https://github.com/aashi2912/Resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aashi_thakkar29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aashi_thakkar29" height="30" width="40" /></a>
