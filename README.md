@@ -5,7 +5,7 @@
 
 - 🌱 I like to **code, paint, read, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.**
 
-- 📫 How to reach me **thakkaraashi3@gmail.com**
+- 📫 How to reach me **aashithakkar29@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/aashi2912/Resume](https://github.com/aashi2912/Resume)
 
