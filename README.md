@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **aashithakkar29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O7uO3ShHD3kPj81g01XB0XFSnRzaHpY4/view?usp=share_link](https://drive.google.com/file/d/1O7uO3ShHD3kPj81g01XB0XFSnRzaHpY4/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aashi_thakkar29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashi_thakkar29" height="30" width="40" /></a>
