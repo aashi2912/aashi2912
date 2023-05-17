@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Data structures and Algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://aashithakkar.me](aashithakkar.me)
+- 👨‍💻 All of my projects are available at https://aashithakkar.me/
 
 - 📫 How to reach me **aashithakkar29@gmail.com**
 
