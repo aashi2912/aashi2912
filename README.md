@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashi Thakkar</h1>
 <h3 align="center">A passionate developer who is trying to Figure Out Stuff!</h3>
 
-- 🔭 I’m currently studying **at University of Windsor.**
+- 🔭 I’m currently working **at Royal Bank of Canada(RBC).**
 
 - 🌱 I’m currently learning **React.**
 
