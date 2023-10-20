@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **at University of Windsor.**
 
-- 🌱 I’m currently learning **React, Data structures and Algorithms.**
+- 🌱 I’m currently learning **React.**
 
 - 👨‍💻 All of my projects are available at https://aashithakkar.me/
 
