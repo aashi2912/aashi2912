@@ -1,22 +1,64 @@
-<h1 align="center">Hi 👋, I'm Aashi Thakkar</h1>
-<h3 align="center">A passionate developer who is trying to Figure Out Stuff!</h3>
+# Hi there, I’m **Aashi Thakkar 👋**
 
-- 🔭 I’m currently working **at Royal Bank of Canada(RBC).**
+Product-oriented Technical Professional specializing in **Data & AI-Driven Platforms, Research Tech, and Scalable Web Applications**.
 
-- 🌱 I’m currently learning **React.**
+I blend product strategy, analytics, and software engineering to deliver impactful solutions that solve real business problems. My experience spans **end-to-end product delivery, data-driven decision-making, cross-functional leadership, and AI/ML-powered tooling**.
+
+---
+
+## 🔭 What I’m Building
+
+💡 **AI-Enabled Research Agents** – Platforms that automate insights generation using GenAI workflows  
+📊 **Data & Analytics Products** – Dashboards, metrics tracking, and tools enabling better decisions  
+📈 **Scalable Web Applications** – Full-stack solutions with real-time data handling and performance optimizations  
+🧠 **Research Technologies** – Tools that elevate alternative data, trend tracking & data ingestion
+
+---
+
+## 💼 Professional Snapshot
+
+I currently work as a **Product Manager/Business Systems Analyst** at **Royal Bank of Canada**, focusing on research technology, alternative data, and AI initiatives. I translate business needs into product strategy, define requirements, guide engineering execution, and measure impact through data metrics.
+
+Previously, I developed full-stack applications that enabled efficient reporting and data visualization, leveraging technologies like **React, Next.js, Node.js, MongoDB, and Python**.
+
+---
+
+## 🧠 My Skills
+
+**Product & PM Skills**
+- Product Strategy & Vision  
+- Roadmap Planning  
+- Feature Prioritization  
+- Requirement Definition (PRDs, BRDs, User Stories)  
+- Agile Execution & Stakeholder Alignment  
+- Product Launch & GTM Support  
+- KPI Definition & Metrics Tracking  
+
+**Data & Analytics**
+- SQL & Data Analysis  
+- Dashboarding (Power BI, Tableau, Excel)  
+- Metrics & Experimentation Support  
+- Business Rules Validation  
+
+**Technical & Dev**
+- Languages: Python, SQL, JavaScript, TypeScript  
+- Frameworks: React, Next.js, Node.js, Django  
+- Databases: MySQL, MongoDB  
+- Tools: JIRA, Confluence, GitHub, Postman, Microsoft Visio  
+- API Integration & Workflow Automation  
+
+---
 
 
-- 📫 How to reach me **aashithakkar29@gmail.com**
+## 📫 Let’s Connect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aashi_thakkar29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashi_thakkar29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashithakkar29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashithakkar29" height="30" width="40" /></a>
-<a href="https://instagram.com/aashi_2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashi_2912" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thakkaraashi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thakkaraashi3" height="30" width="40" /></a>
-</p>
+- 🔗 **LinkedIn**: https://linkedin.com/in/aashithakkar29
+- 📧 **Email**: aashithakkar29@gmail.com  
+- 📍 **Based in**: Toronto, ON, Canada
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashi2912&show_icons=true&locale=en" alt="aashi2912" /></p>
+Thanks for visiting my profile — I’m always open to collaborating on interesting data, AI, and product challenges!
+
+
+
