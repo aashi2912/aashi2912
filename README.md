@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at https://aashithakkar.me/
 
 - 📫 How to reach me **aashithakkar29@gmail.com**
 
