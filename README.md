@@ -63,7 +63,7 @@ Focus   → Enterprise, secure, shippable
 | 📉 | **60% reduction** in manual research effort | Agentic RAG pipelines replacing repetitive analyst work |
 | 📈 | **25% efficiency gain** across teams | Research technology enhancements across cross-functional delivery |
 | ⚙️ | **40% platform performance boost** | Optimised caching, API architecture, and data-fetching strategies |
-| 👥 | **3,000+** enterprise users served | Multi-agent GenAI platform shipped to capital markets globally |
+| 👥 | **8,000+** enterprise users served | Multi-agent GenAI platform featured by NVIDIA |
 
 </div>
 
