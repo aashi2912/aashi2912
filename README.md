@@ -26,7 +26,7 @@
 
 I build **enterprise AI products** that turn complex research and data workflows into tools people actually want to use.
 
-My edge: I was a **software engineer first** - 2 years building real-time analytics platforms and trading tools. That means I don't just write requirements and hope for the best. I understand what's feasible, where the technical risk lives, and how to have real conversations with the teams building the thing.
+My edge: I was a **software engineer first** - 3 years building real-time analytics platforms and trading tools. That means I don't just write requirements and hope for the best. I understand what's feasible, where the technical risk lives, and how to have real conversations with the teams building the thing.
 
 Now I work at the intersection of **LLMs, RAG, agentic workflows**, and enterprise product delivery - shipping secure, compliant B2B solutions with measurable outcomes.
 
