@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aashi+%F0%9F%91%8B;AI+Product+Manager;I+turn+complex+AI+into+products+people+use;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+Enterprise+GenAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Aashi+%F0%9F%91%8B;AI+Product+Manager+%C2%B7+Engineer-turned-PM;I+ship+AI+that+works+in+production+%E2%80%94+past+the+demo;Enterprise+%26+Consumer+AI+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Agents" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## ✦ &nbsp; AI Product Manager · SWE background  ✦
+## ✦ &nbsp; AI Product Manager  · Enterprise + Consumer AI  ✦
 
 </div>
 
@@ -24,11 +24,11 @@
 
 ### 🧠 The short version
 
-I build **enterprise AI products** that turn complex research and data workflows into tools people actually want to use.
+I build **AI products that work in production** — the kind that survive real users, not just a demo. The hard part is the same whether it's **enterprise or consumer**: evals, guardrails, and knowing what "good" actually means.
 
 My edge: I was a **software engineer first** - 3 years building real-time analytics platforms and trading tools. That means I don't just write requirements and hope for the best. I understand what's feasible, where the technical risk lives, and how to have real conversations with the teams building the thing.
 
-Now I work at the intersection of **LLMs, RAG, agentic workflows**, and enterprise product delivery - shipping secure, compliant B2B solutions with measurable outcomes.
+On the **enterprise** side I work at the intersection of **LLMs, RAG, and agentic workflows**, shipping secure, compliant B2B products. On the **consumer** side I build and ship my own AI - recommenders and rankers like Vibe Route and Blind Spot (below).
 
 </td>
 <td width="45%" valign="top">
@@ -36,14 +36,14 @@ Now I work at the intersection of **LLMs, RAG, agentic workflows**, and enterpri
 ### 📍 Right now
 
 ```
-Role    → AI Product Manager
-Domain  → Generative AI + Research Tech
+Role    → AI PM · Engineer-turned-PM
+Domain  → Enterprise GenAI + Research Tech
          + Alternative Data
+Build   → Consumer AI I ship solo
+         (recommenders, rankers)
 Stack   → LLMs · RAG · AI Agents · NLP
-         Embeddings · Vector Search
-Eng bg  → React · Next.js · Python · SQL
-         Node.js · MongoDB
-Focus   → Enterprise, secure, shippable
+         Embeddings · Vector · Recsys
+Focus   → Works in production, past the demo
 ```
 
 </td>
@@ -63,7 +63,7 @@ Focus   → Enterprise, secure, shippable
 | 📉 | **60% reduction** in manual research effort | Agentic RAG pipelines replacing repetitive analyst work |
 | 📈 | **25% efficiency gain** across teams | Research technology enhancements across cross-functional delivery |
 | ⚙️ | **40% platform performance boost** | Optimised caching, API architecture, and data-fetching strategies |
-| 👥 | **8,000+** enterprise users served | Multi-agent GenAI platform featured by NVIDIA |
+| 👥 | **8,000+** enterprise users served | Multi-agent GenAI platform featured by NVIDIA · [showcased at Databricks Data + AI Summit](https://www.youtube.com/watch?v=c4oVUmt15PY) |
 
 </div>
 
@@ -80,6 +80,7 @@ Focus   → Enterprise, secure, shippable
 ![NLP](https://img.shields.io/badge/NLP-059669?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-D97706?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-DC2626?style=for-the-badge)
+![Recsys](https://img.shields.io/badge/Recsys_%2F_Ranking-BE185D?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge)
 ![Model Evaluation](https://img.shields.io/badge/Model_Eval_%26_Guardrails-0F766E?style=for-the-badge)
 ![Responsible AI](https://img.shields.io/badge/Responsible_AI-166534?style=for-the-badge)
@@ -111,6 +112,14 @@ Focus   → Enterprise, secure, shippable
 
 ## 🧪 Things I've built
 
+<div align="center">
+
+*Consumer AI, shipped end-to-end - where I keep my product judgment honest.*
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -132,7 +141,7 @@ AI-powered walking route comparison that scores routes by **how they feel** — 
 
 Surfaces filter bubbles in Netflix viewing behaviour using cosine similarity, content-based filtering, and the Herfindahl index to measure recommendation diversity.
 
-`Claude API` &nbsp; `Cosine Similarity` &nbsp; `Herfindahl Index` &nbsp; `AI`
+`Claude API` &nbsp; `Cosine Similarity` &nbsp; `Herfindahl Index` &nbsp; `Recsys`
 
 </td>
 </tr>
@@ -164,7 +173,7 @@ Ship small, learn fast, kill what's not working — and have the courage to say 
 | 📐 A good PRD saves 10x the engineering time | 🚫 Moving fast means skipping clarity |
 | 🔍 Talking to users is never optional | 🚫 Internal proxies understand end users |
 | 🛡️ Security and compliance aren't afterthoughts | 🚫 You can bolt guardrails on later |
-| 📊 If you can't measure it, you didn't ship it | 🚫 Adoption is someone else's problem |
+| 📊 "Done" means it passed eval, not that it shipped | 🚫 Adoption is someone else's problem |
 
 <br/>
 
