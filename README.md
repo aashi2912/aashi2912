@@ -128,9 +128,9 @@ Focus   → Works in production, past the demo
 
 > *Google Maps tells you the fastest route. This tells you the best one.*
 
-AI-powered walking route comparison that scores routes by **how they feel** — not just how fast they are. Built with LLM scoring, DBSCAN clustering, and NLP sentiment pipelines.
+Scores real walking routes on the signals **you** choose — green, well-lit, coffee, local character — and tells you what you'll pass, grounded in verified places (never invented). Deliberately avoids LLM "beauty" scoring to sidestep affluence bias: 2 LLM features + 2 deterministic engines, with a committed eval harness and day/night modes.
 
-`Claude API` &nbsp; `DBSCAN ML` &nbsp; `NLP` &nbsp; `Product Discovery`
+`Claude API` &nbsp; `DBSCAN clustering` &nbsp; `LLM evals` &nbsp; `Bias-aware design`
 
 </td>
 <td width="50%" valign="top">
@@ -139,9 +139,9 @@ AI-powered walking route comparison that scores routes by **how they feel** — 
 
 > *80% of what you watch was chosen by an algorithm. This shows you what it's hiding.*
 
-Surfaces filter bubbles in Netflix viewing behaviour using cosine similarity, content-based filtering, and the Herfindahl index to measure recommendation diversity.
+Measures your Netflix filter bubble (cosine similarity, content-based filtering, the Herfindahl index), then recommends one film from a genre you always skip — and explains why you'll like it. v2 adds an LLM-as-judge eval harness (21 cases on grounding, personalization, specificity) that caught and fixed a silent refusal bug: now 0% hallucination, 100% on honest refusals.
 
-`Claude API` &nbsp; `Cosine Similarity` &nbsp; `Herfindahl Index` &nbsp; `Recsys`
+`Claude API` &nbsp; `Herfindahl Index` &nbsp; `LLM evals` &nbsp; `Recsys`
 
 </td>
 </tr>
